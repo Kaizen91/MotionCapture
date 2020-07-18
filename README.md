@@ -1,4 +1,4 @@
-The purpose of this project is to create a program with python's OpenCv (cv2) module.  The program will capture any movement that passes into the frame of your laptop's webcam and record the time the object entered and exited the frame to a csv file.
+The purpose of this project is to create a program with python's OpenCv (cv2) module.  The program will capture any movement that passes into the frame of your laptop's webcam and record the time the object entered and exited the frame to a csv file.  A Graph of the Data will also be produced using that csv file.
 
 requirements:
 python3
@@ -13,3 +13,5 @@ instructions:
 5.Press "q" to quit.
 6.The times an object entered the frame should be visible in the Times.csv file.
 7.A graph called Graph.html should also be produced and called up by your browser.
+
+NOTE: Make sure you are out of frame when the webcam starts.
